@@ -1,1 +1,1 @@
-# email_signature
+# email_signature_logo
